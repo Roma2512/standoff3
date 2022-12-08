@@ -1,0 +1,48 @@
+body{
+    background: url("https://besthqwallpapers.com/Uploads/10-12-2021/187241/standoff-2-4k-orange-neon-lights-creative-online-games.jpg");
+    background-size: 90%;
+    text-align: center;
+    font-size: 25px;
+    font-family: "Arial Black";
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+.block{
+    padding: 10px;
+    background: lightgray;
+    width: 50%;
+    margin: auto;
+    margin-top: 3%;
+    border-radius: 10px;
+}
+.menu{
+    top: 0;
+    right: 0;
+    left: 0;
+    position: fixed;
+    background: gray;
+}
+.menud{
+    font-size: 70%;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    text-shadow: 0 0 5px black;
+}
+.button{
+    background: white;
+    border-radius: 10px;
+    padding: 2px;
+    transition: .3s;
+    text-decoration: none;
+    color: black;
+}
+.button:hover{
+    box-shadow: 0 0 10px black;
+}
+.button:active{
+    background: gray;
+}
